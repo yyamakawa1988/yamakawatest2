@@ -1,4 +1,4 @@
-FROM alpine:3.22
+FROM alpine:3.23
 
 # Set the working directory inside the container
 WORKDIR /usr/src
